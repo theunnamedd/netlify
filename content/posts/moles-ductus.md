@@ -9,11 +9,11 @@ slug: "moles-ductus"
 tags:
   - "test"
 author:
-  createdAt: 1649458792087
-  ID: "0a2ebcca-c896-40c2-9f4a-12be2dd8dbba"
-  displayName: "Meltem Tembel"
-  avatarImage: "public/1649458779469_79.jpeg"
-  role: "web analyst"
+  ID: "36a7a093-6966-4c15-b88a-46529c1ba367"
+  displayName: "HK"
+  avatarImage: ""
+  role: "Admin"
+  createdAt: 1673630042464
 coverImage: "public/1649458654037_green-chameleon-s9CC2SKySJM-unsplash.jpg"
 
 ---
