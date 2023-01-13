@@ -9,12 +9,6 @@
         "ID": "cfb3aaca-74e3-4a10-a873-66a105e63cae",
         "url": "https://twitter.com/contentrain_io?s=21",
         "iconName": "ri-twitter-line"
-      },
-      {
-        "createdAt": 1656421072139,
-        "ID": "6b81a843-4800-4348-9ed4-289ed5814542",
-        "url": "https://github.com/Contentrain/nuxt-blog-starter/",
-        "iconName": "ri-github-line"
       }
     ]
   }
