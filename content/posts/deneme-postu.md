@@ -1,6 +1,7 @@
 ---
 title: "Deneme Postu"
-tags: []
+tags:
+  - "test"
 slug: "deneme-postu"
 categories: []
 ID: "57e17304-e82a-496f-a836-f05346073f98"
