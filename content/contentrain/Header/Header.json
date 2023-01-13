@@ -11,12 +11,6 @@
         "iconName": "ri-twitter-line"
       },
       {
-        "createdAt": 1649454898177,
-        "ID": "6b81a843-4800-4348-9ed4-171cd5704563",
-        "url": "https://www.linkedin.com/company/contentrain",
-        "iconName": "ri-linkedin-line"
-      },
-      {
         "createdAt": 1656421072139,
         "ID": "6b81a843-4800-4348-9ed4-289ed5814542",
         "url": "https://github.com/Contentrain/nuxt-blog-starter/",
