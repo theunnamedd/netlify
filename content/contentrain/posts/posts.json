@@ -23,7 +23,9 @@
   },
   {
     "title": "Deneme Postu",
-    "tags": [],
+    "tags": [
+      "test"
+    ],
     "content": "\tDeneme postu\t\t\t",
     "slug": "deneme-postu",
     "categories": [],
