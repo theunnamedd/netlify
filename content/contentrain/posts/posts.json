@@ -20,5 +20,17 @@
     },
     "coverImage": "public/1673629919842_sherlock.jpg",
     "createdAt": 1673629944855
+  },
+  {
+    "title": "Deneme Postu",
+    "tags": [],
+    "content": "\tDeneme postu\t\t\t",
+    "slug": "deneme-postu",
+    "categories": [],
+    "ID": "57e17304-e82a-496f-a836-f05346073f98",
+    "description": "açıklama",
+    "author": [],
+    "coverImage": "",
+    "createdAt": 1673630394821
   }
 ]
