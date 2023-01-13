@@ -3,7 +3,8 @@ title: "Deneme Postu"
 tags:
   - "test"
 slug: "deneme-postu"
-categories: []
+categories:
+  - "test"
 ID: "57e17304-e82a-496f-a836-f05346073f98"
 description: "açıklama"
 author: []
